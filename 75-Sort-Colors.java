@@ -18,6 +18,7 @@ class Solution {
         }
     }
 
+    
     public void swap(int[] nums , int i , int j ){
         int k = nums[i];
         nums[i] = nums[j];
