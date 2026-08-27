@@ -7,7 +7,8 @@ class Solution {
 
             if(currsum + nums[i] > nums[i]){
                 currsum+=nums[i];
-            }else{
+            }
+            else{
                 currsum = nums[i];
             }
 
