@@ -14,11 +14,13 @@ class Solution {
             rightMax[i] = Math.max(rightMax[i+1],height[i]);
         }
 
+        
         int ans = 0 ;
         for(int i=0;i<n;i++){
             ans += Math.min(leftMax[i],rightMax[i])-height[i];
         }
 
+        
         return ans ;
     }
 }
