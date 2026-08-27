@@ -1,5 +1,6 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
+        
         if(nums.length==1){
             return nums[0];
         }else if ( nums[0]!=nums[1]){
@@ -29,6 +30,7 @@ class Solution {
                     }else{
                         end = mid -1 ;
                     }
+            
             }
         }
 
