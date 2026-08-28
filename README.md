@@ -1,10 +1,10 @@
-# 🚀 100 Days of LeetCode Challenge
+#  100 Days of LeetCode Challenge
 
 Documenting my journey of solving 100 LeetCode problems and pushing code **every single day**.
 
 ---
 
-## 📈 Progress
+##  Progress
 
 *   **Current Progress:** `35 / 100` problems solved
 *   **Language:** Python *(Change to your language)*
@@ -12,6 +12,6 @@ Documenting my journey of solving 100 LeetCode problems and pushing code **every
 
 ---
 
-## 🎯 Goal
+##  Goal
 
 Build consistency, strengthen problem-solving skills, and master Data Structures & Algorithms.
