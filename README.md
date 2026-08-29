@@ -6,7 +6,7 @@ Documenting my journey of solving 100 LeetCode problems and pushing code **every
 
 ##  Progress
 
-*   **Current Progress:** `35 / 100` problems solved
+*   **Current Progress:** `40 / 100` problems solved
 *   **Language:** Python *(Change to your language)*
 
 
