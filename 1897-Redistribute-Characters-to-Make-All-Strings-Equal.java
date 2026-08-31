@@ -13,6 +13,7 @@ class Solution {
             }
         }
 
+        
         for(int i=0;i<26;i++){
             if(fre[i] % words.length!=0){
                 return false;
